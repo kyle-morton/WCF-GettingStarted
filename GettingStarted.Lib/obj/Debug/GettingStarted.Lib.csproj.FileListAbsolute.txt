@@ -1,0 +1,7 @@
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Lib\bin\Debug\GettingStarted.Lib.dll.config
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Lib\bin\Debug\GettingStarted.Lib.dll
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Lib\bin\Debug\GettingStarted.Lib.pdb
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Lib\obj\Debug\GettingStarted.Lib.csprojResolveAssemblyReference.cache
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Lib\obj\Debug\GettingStarted.Lib.csproj.CoreCompileInputs.cache
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Lib\obj\Debug\GettingStarted.Lib.dll
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Lib\obj\Debug\GettingStarted.Lib.pdb

@@ -1,0 +1,6 @@
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Client\bin\Debug\GettingStarted.Client.exe.config
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Client\bin\Debug\GettingStarted.Client.exe
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Client\bin\Debug\GettingStarted.Client.pdb
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Client\obj\Debug\GettingStarted.Client.csproj.CoreCompileInputs.cache
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Client\obj\Debug\GettingStarted.Client.exe
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Client\obj\Debug\GettingStarted.Client.pdb

@@ -1,0 +1,10 @@
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Console\bin\Debug\GettingStarted.Console.exe.config
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Console\bin\Debug\GettingStarted.Console.exe
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Console\bin\Debug\GettingStarted.Console.pdb
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Console\bin\Debug\GettingStarted.Lib.dll
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Console\bin\Debug\GettingStarted.Lib.pdb
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Console\bin\Debug\GettingStarted.Lib.dll.config
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Console\obj\Debug\GettingStarted.Console.csprojResolveAssemblyReference.cache
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Console\obj\Debug\GettingStarted.Console.csproj.CoreCompileInputs.cache
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Console\obj\Debug\GettingStarted.Console.exe
+C:\Users\kylem\source\repos\GettingStarted\GettingStarted.Console\obj\Debug\GettingStarted.Console.pdb
